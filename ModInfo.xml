@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="PlayerLogger" />
+		<Description value="Logs Basic Player Information" />
+		<Author value="Justin 'Chromecide' Pradier" />
+		<Version value="1" />
+		<Website value="https://github.com/7DaysToMod/playerlogger" />
+	</ModInfo>
+</xml>
